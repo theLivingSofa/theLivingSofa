@@ -1,10 +1,10 @@
-<p align="center">
+<p align="left">
   <img src="https://i.imgur.com/9MsHwwb.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hey there! I'm <b>theLivingSofa</b> 👋</h1>
+<h1 align="left">Hey there! I'm <b>theLivingSofa</b> 👋</h1>
 
-<p align="center">
+<p align="left">
   <i>Dream. Build. Repeat.</i>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
@@ -36,31 +36,17 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-![theLivingSofa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theLivingSofa&show_icons=true&theme=radical&border_radius=10&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=radical&border_radius=10&hide_border=false)
+<div align="left">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theLivingSofa&theme=radical&border_radius=10&hide_border=false)
 
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theLivingSofa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=radical&border_radius=10&hide_border=false)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 🖤 _"Code is like humor. When you have to explain it, it’s bad."_  
 — _Cory House_
