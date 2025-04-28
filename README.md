@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://i.imgur.com/vAA4wEn.png" alt="Banner" width=600 />
+  <img src="https://i.imgur.com/vAA4wEn.png" alt="Banner" width=300 />
 </p>
 
 <h1 align="left">Hey there! I'm <b>theLivingSofa</b> 👋</h1>
