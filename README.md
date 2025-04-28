@@ -10,15 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🛠️ Full Stack Developer | Tech Enthusiast | Cloud Explorer
-- 🌟 Passionate about **clean code**, **modern UI/UX**, and **AI-driven solutions**
-- 🌱 Currently diving deeper into: **Machine Learning**, **Cloud Platforms**, and **DevOps Automation**
-- 🤝 Always open for collaborations, learning, and building amazing projects together!
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="left">
