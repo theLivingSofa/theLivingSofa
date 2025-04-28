@@ -1,25 +1,31 @@
-# 🛋️ theLivingSofa
+# 🌌 theLivingSofa
 
-> _"Building ideas, one line of code at a time."_
-
----
-
-## 🧠 About Me
-
-- 🛠️ Passionate about crafting software solutions that matter.
-- 🎮 A nostalgic gamer living in the modern coding world.
-- 📚 Currently diving deeper into **Cloud Computing** and **Machine Learning**.
-- 🚀 Always exploring new technologies, one commit at a time.
+> 🛋️ **Retro mind in a futuristic world.**  
+> ✨ _Coding my dreams into reality._
 
 ---
 
-## 🧰 Toolbox
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-<img src="https://skillicons.dev/icons?i=swift,python,javascript,html,css,jupyter" alt="My Skills" height="80" />
-  
+
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 </div>
+
+---
+
+## 🚀 About Me
+
+- 🛠️ Love crafting creative and efficient code.
+- 🧠 Always curious — currently exploring **AI**, **Cloud**, and **Data Science**.
+- 🕹️ Retro gamer, modern developer.
+- ✨ Believer in minimalism and clean design.
 
 ---
 
@@ -27,36 +33,27 @@
 
 <div align="center">
 
-[![theLivingSofa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theLivingSofa&show_icons=true&theme=algolia&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=algolia&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## ✨ Current Focus
-
-- 🌟 Mastering **Cloud Infrastructure** (AWS, Azure)
-- 🤖 Experimenting with **AI and ML projects**
-- 📈 Leveling up my **Data Visualization** skills
-- 🧩 Building open-source projects for the community
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
+![theLivingSofa's GitHub stats](https://github-readme-stats.vercel.app/api?username=theLivingSofa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false)
   
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theLivingSofa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=tokyonight&border_radius=10&hide_border=false)
 
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/theLivingSofa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+  
 </div>
 
 ---
 
 <div align="center">
 
-> _"Retro heart, futuristic mind."_ ⚡
+✨ _"Retro soul. Futuristic code."_ ✨
 
 </div>
