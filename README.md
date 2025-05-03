@@ -1,7 +1,8 @@
+<!--
 <p align="left">
   <img src="https://i.imgur.com/vAA4wEn.png" alt="Banner" width=450 />
 </p>
-
+-->
 <h1 align="left">Hey there! I'm <b>theLivingSofa</b> 👋</h1>
 
 <p align="left">
