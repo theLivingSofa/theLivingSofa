@@ -41,27 +41,12 @@ I'm a passionate developer who loves turning ideas into reality through code. Al
 
 ## 📊 GitHub Activity
 
-> ⚡ _Work in progress. More code coming soon..._
+⚡ Work in progress. More cool code coming soon...
 
-<div align="left">
+![GitHub Streak](https://streak-stats.demolab.com?user=theLivingSofa&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=theLivingSofa&theme=radical&border_radius=10&hide_border=false)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=radical&hide_border=false)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=radical&border_radius=10&hide_border=false)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theLivingSofa&theme=react-dark&area=true&hide_border=true)
-
-</div>
 
 ---
 
