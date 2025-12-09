@@ -1,46 +1,79 @@
-<!--
-<p align="left">
-  <img src="https://i.imgur.com/vAA4wEn.png" alt="Banner" width=450 />
-</p>
--->
-<h1 align="left">Hey there! I'm <b>theLivingSofa</b> 👋</h1>
-
-<p align="left">
-  <i>Dream. Build. Repeat.</i>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=theLivingSofa&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
+<!-- Animated Typing Heading -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+theLivingSofa+👋;Building+cool+things+with+code+🚀;Dream.+Build.+Repeat.">
+</h2>
+
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+<p align="left">
+I'm a passionate developer who loves turning ideas into reality through code. Always exploring new tools, learning new technologies, and building fun & innovative projects along the way. If it can be imagined, it can be created ✨  
+</p>
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="left">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=for-the-badge&logo=jupyter)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
+![Swift](https://img.shields.io/badge/-Swift-181717?style=for-the-badge&logo=swift)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-181717?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker)
+![Jupyter](https://img.shields.io/badge/-Jupyter-181717?style=for-the-badge&logo=jupyter)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
+
+> ⚡ _Work in progress. More code coming soon..._
 
 <div align="left">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theLivingSofa&theme=radical&border_radius=10&hide_border=false)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=theLivingSofa&theme=radical&border_radius=10&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=radical&border_radius=10&hide_border=false)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=radical&border_radius=10&hide_border=false)
 
 </div>
 
 ---
 
-<div align="left">
+## 📈 Contribution Graph
 
-🖤 _"Code is like humor. When you have to explain it, it’s bad."_  
-— _Cory House_
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theLivingSofa&theme=react-dark&area=true&hide_border=true)
 
 </div>
+
+---
+
+<div align="center">
+
+💬 _“Code is like a canvas — every line paints the future.”_ 🎨
+
+</div>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
