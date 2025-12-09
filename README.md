@@ -39,17 +39,6 @@ I'm a passionate developer who loves turning ideas into reality through code. Al
 
 ---
 
-## 📊 GitHub Activity
-
-⚡ Work in progress. More cool code coming soon...
-
-![GitHub Streak](https://streak-stats.demolab.com?user=theLivingSofa&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theLivingSofa&layout=compact&theme=radical&hide_border=false)
-
-
----
-
 <div align="center">
 
 💬 _“Code is like a canvas — every line paints the future.”_ 🎨
