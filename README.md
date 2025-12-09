@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Heading -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+theLivingSofa+👋;Building+cool+things+with+code+🚀;Dream.+Build.+Repeat.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+theLivingSofa+👋;Building+cool+things+with+code+🚀;try+karke+dekhte+hai!">
 </h2>
 
 ---
